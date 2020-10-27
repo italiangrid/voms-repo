@@ -1,0 +1,7 @@
+[VOMS-nightly-EL7]
+name=VOMS-nightly-EL7
+baseurl=https://repo.cloud.cnaf.infn.it/repository/voms-rpm-nightly/centos7/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
