@@ -1,6 +1,6 @@
 [VOMS-beta-EL9]
 name=VOMS-beta-EL9
-baseurl=https://repo.cloud.cnaf.infn.it/repository/voms-rpm-beta/centos9/
+baseurl=https://repo.cloud.cnaf.infn.it/repository/voms-rpm-beta/redhat9/
 protect=1
 enabled=1
 priority=1
