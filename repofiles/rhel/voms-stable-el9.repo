@@ -1,0 +1,7 @@
+[VOMS-stable-EL9]
+name=VOMS-stable-EL9
+baseurl=https://repo.cloud.cnaf.infn.it/repository/voms-rpm-stable/redhat9/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
