@@ -1,0 +1,7 @@
+[VOMS-beta-EL8]
+name=VOMS-beta-EL8
+baseurl=https://repo.cloud.cnaf.infn.it/repository/voms-rpm-beta/redhat8/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
